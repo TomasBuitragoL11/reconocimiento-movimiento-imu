@@ -20,6 +20,6 @@ Este proyecto implementa un sistema de **Reconocimiento de Actividades Humanas (
 ## Autores
 Tomás Buitrago López   
 Nicolás Ramírez Ramírez   
-Asignatura: Teoría de Señales (C5606001)   
+Asignatura: Teoría de Señales   
 Docente: Mateo Cardona Marín
 Institución: Universidad de Manizales
