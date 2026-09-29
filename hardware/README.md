@@ -11,6 +11,6 @@ El módulo inercial MPU-6050 se conecta al microcontrolador ESP32 mediante el pr
 | **SCL** | **GPIO 22** | Línea de Reloj I2C |
 
 ## Simulación del Circuito
-El esquemático del circuito y el código del firmware están montados en Wokwi[cite: 1]:
+El esquemático del circuito y el código del firmware están montados en Wokwi:
 
 **[Abrir Simulación en Wokwi](https://wokwi.com/projects/476428926957185025)** 
